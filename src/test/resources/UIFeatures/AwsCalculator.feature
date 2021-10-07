@@ -1,6 +1,6 @@
 Feature:  Testing AWS Calculator
 
-  @TECTC-110 @ui
+  @TECTC-110 @ui @api
   Scenario: Testing calculation of prices for EC2 Instances
     Given User Navigate to AWS Calculator Homepage
     When User adds 2 EC2 Instances

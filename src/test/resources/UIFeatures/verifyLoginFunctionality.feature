@@ -1,4 +1,4 @@
- @TEC-101 @regressionTest @ui
+ @TEC-101 @regressionTest @ui @api
    Feature: Verifying  login Functionality
 
      Background: Common first steps

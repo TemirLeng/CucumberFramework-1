@@ -33,5 +33,6 @@ Feature: Adding Order
       | Mark Smith     |
       | Samuel Clemens |
       | Paul Brown     |
+      | James White    |
 
 

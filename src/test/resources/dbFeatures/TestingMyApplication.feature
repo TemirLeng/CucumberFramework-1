@@ -12,3 +12,6 @@ Feature: Testing my application
     |105        |
     |119        |
     |125        |
+    |150        |
+    |170        |
+    |-125       |
